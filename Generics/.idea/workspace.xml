@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f0c130db-df08-4335-9532-8f1192085601" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../AbstractClasses/AbstractClasses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessModifiers/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessModifiers/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessModifiers/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessModifiers/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessModifiers/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessModifiers/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessModifiers/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessModifiers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessModifiers/Collections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessModifiers/src/com/Rashid/Theatre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adventure Random/InputOutput.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adventure Random/locations_rand.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adventure Random/src/rashid/proj/ioProject/IndexRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AdventureMap/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AdventureMap/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AdventureMap/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AdventureMap/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AdventureMap/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AdventureMap/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AdventureMap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AdventureMap/AdventureMap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AdventureMap/Map.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AdventureMap/src/Map/Adventure/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Controls/Controls.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Controls/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Counter/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Counter/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Counter/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Counter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Counter/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Counter/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Counter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Counter/Counter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Counter/src/counter/java/ThreadColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Events/Events.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Events/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excsptions/Excsptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldFx/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldFx/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldFx/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldFx/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldFx/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldFx/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldFx/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldFx/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldFx/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldFx/HelloWorldFx.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldFx/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InputOutput/InputOutput.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InputOutput/locations.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InputOutput/src/rashid/proj/ioProject/Locations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMaps/JavaMaps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMaps/src/com/Rashid/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaNIO2/JavaNIO2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layout/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layout/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layout/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layout/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layout/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layout/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layout/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layout/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layout/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layout/Layout.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Messages/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Messages/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Messages/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Messages/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Messages/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Messages/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Messages/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Messages/Messages.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Tutorials.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Packages/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Packages/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Packages/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Packages/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Packages/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Packages/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Packages/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Packages/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Packages/Packages.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Packages/src/com/Rashid/Window.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProducerConsumer/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProducerConsumer/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProducerConsumer/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProducerConsumer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProducerConsumer/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProducerConsumer/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProducerConsumer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProducerConsumer/ProducerConsumer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProducerConsumer/src/Messages/java/ThreadColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Regular Expression/Regular Expression.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SetsAndHashSets/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SetsAndHashSets/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SetsAndHashSets/.idea/dictionaries/Rashi_Riaz.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SetsAndHashSets/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SetsAndHashSets/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SetsAndHashSets/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SetsAndHashSets/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SetsAndHashSets/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SetsAndHashSets/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SetsAndHashSets/SetsAndHashSets.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SetsAndHashSets/src/Map/Sets/DwarfPlanet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SetsAndHashSets/src/Map/Sets/HeavenlyBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SetsAndHashSets/src/Map/Sets/Moon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SetsAndHashSets/src/Map/Sets/Planet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread/Thread.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread/src/com/thread/java/MyRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToDoListApp/ToDoListApp.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1gGWUZ7ijDMKhewOUL90uP52Vlc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0c130db-df08-4335-9532-8f1192085601" name="Default Changelist" comment="" />
+      <created>1597741425813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597741425813</updated>
+      <workItem from="1597741426879" duration="191000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
